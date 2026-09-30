@@ -1,0 +1,127 @@
+{
+  "bvid": "BV1XhQEBvEP6",
+  "aid": 116407907981424,
+  "cid": 37525258417,
+  "videos": 10,
+  "tid": 130,
+  "tid_v2": 2024,
+  "tname": "",
+  "tname_v2": "",
+  "pic": "http://i0.hdslb.com/bfs/archive/2092dfb9ccb4552be4e0cf585630843dbbb5e0e6.jpg",
+  "title": "邱永传歌曲合集：《十一年》《十二年》《伤心你的堕落》《忘了吧算了吧》《痛苦算什么》《难道伤心是你给我的温柔》《抓不住你的心》《真心喜欢你》《朋友圈里再也没有你》",
+  "ctime": 1776244113,
+  "desc": "本账号发布的音乐及相关素材资源均来自网络，版权归原作者所有，如侵权请速与我联系删除。\n如果有想听的歌曲，可以尝试留言哦。喜欢的话就一键三连吧，你的支持是我们持续更新的最大动力。",
+  "duration": 2490,
+  "pages": [
+    {
+      "aid": 116407907981424,
+      "bvid": "BV1XhQEBvEP6",
+      "cid": 37525258417,
+      "page": 1,
+      "part": "十一年",
+      "duration": 256,
+      "vid": "",
+      "first_frame": "http://i2.hdslb.com/bfs/storyff/_00000byhp8vpwttog28nkwqfvr08qqb_firsti.jpg",
+      "ctime": 1776244113
+    },
+    {
+      "aid": 116407907981424,
+      "bvid": "BV1XhQEBvEP6",
+      "cid": 37525196488,
+      "page": 2,
+      "part": "十二年",
+      "duration": 240,
+      "vid": "",
+      "first_frame": "http://i1.hdslb.com/bfs/storyff/_00002f3ke5ur2ap4c2u7jy9hg5pmo7b_firsti.jpg",
+      "ctime": 1776244113
+    },
+    {
+      "aid": 116407907981424,
+      "bvid": "BV1XhQEBvEP6",
+      "cid": 37525196200,
+      "page": 3,
+      "part": "伤心你的堕落",
+      "duration": 259,
+      "vid": "",
+      "first_frame": "http://i0.hdslb.com/bfs/storyff/_00001u3nvwn8zq9ul2qoew12ypr6jkb_firsti.jpg",
+      "ctime": 1776244113
+    },
+    {
+      "aid": 116407907981424,
+      "bvid": "BV1XhQEBvEP6",
+      "cid": 37525258947,
+      "page": 4,
+      "part": "忘了吧算了吧",
+      "duration": 254,
+      "vid": "",
+      "first_frame": "http://i0.hdslb.com/bfs/storyff/_000000y16ru2evooh2p2frceinksfbb_firsti.jpg",
+      "ctime": 1776244113
+    },
+    {
+      "aid": 116407907981424,
+      "bvid": "BV1XhQEBvEP6",
+      "cid": 37525258714,
+      "page": 5,
+      "part": "痛苦算什么",
+      "duration": 279,
+      "vid": "",
+      "first_frame": "http://i1.hdslb.com/bfs/storyff/_00003ckdc4ahlal722jjhzn28vdzneb_firsti.jpg",
+      "ctime": 1776244113
+    },
+    {
+      "aid": 116407907981424,
+      "bvid": "BV1XhQEBvEP6",
+      "cid": 37525195791,
+      "page": 6,
+      "part": "难道伤心是你给我的温柔",
+      "duration": 223,
+      "vid": "",
+      "first_frame": "http://i2.hdslb.com/bfs/storyff/_0000151rfylfdt20y2njoykfqluublb_firsti.jpg",
+      "ctime": 1776244113
+    },
+    {
+      "aid": 116407907981424,
+      "bvid": "BV1XhQEBvEP6",
+      "cid": 37525259449,
+      "page": 7,
+      "part": "抓不住你的心",
+      "duration": 255,
+      "vid": "",
+      "first_frame": "http://i0.hdslb.com/bfs/storyff/_000002qp8fo4q1kp02b6gq7lk27ljzb_firsti.jpg",
+      "ctime": 1776244113
+    },
+    {
+      "aid": 116407907981424,
+      "bvid": "BV1XhQEBvEP6",
+      "cid": 37525259164,
+      "page": 8,
+      "part": "真心喜欢你",
+      "duration": 251,
+      "vid": "",
+      "first_frame": "http://i0.hdslb.com/bfs/storyff/_000001otaap85qmjz2cd4nlfg2mz3db_firsti.jpg",
+      "ctime": 1776244113
+    },
+    {
+      "aid": 116407907981424,
+      "bvid": "BV1XhQEBvEP6",
+      "cid": 37525196044,
+      "page": 9,
+      "part": "朋友圈里再也没有你",
+      "duration": 222,
+      "vid": "",
+      "first_frame": "http://i2.hdslb.com/bfs/storyff/_00000g10mervud54l2ol8rqjf0vy9cb_firsti.jpg",
+      "ctime": 1776244113
+    },
+    {
+      "aid": 116407907981424,
+      "bvid": "BV1XhQEBvEP6",
+      "cid": 37525196426,
+      "page": 10,
+      "part": "十三年",
+      "duration": 251,
+      "vid": "",
+      "first_frame": "http://i0.hdslb.com/bfs/storyff/_0000237b17i3o1ywl2rhr9mg8xgyesb_firsti.jpg",
+      "ctime": 1776244113
+    }
+  ]
+}

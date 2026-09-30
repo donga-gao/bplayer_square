@@ -1,0 +1,193 @@
+{
+  "bvid": "BV1zx411M71T",
+  "aid": 15565564,
+  "cid": 25329305,
+  "videos": 16,
+  "tid": 29,
+  "tid_v2": 0,
+  "tname": "",
+  "tname_v2": "",
+  "pic": "http://i1.hdslb.com/bfs/archive/54284c135ae3308428629564d0279be6d8c083c5.png",
+  "title": "【JMTV】一人一首董昱昆合集",
+  "ctime": 1508504365,
+  "desc": "《淋雨》词：贾文涛 曲：贾文涛\r\n《等待者》词：董昱昆 曲：董昱昆\r\n《人》词：董昱昆 曲：董昱昆\r\n《董先生》《明信片》《一人环游世界》词：董昱昆 曲：董昱昆\r\n《窗外的枫叶》词：贾文涛 曲：贾文涛\r\n《可能》《和你》词：张剑鑫、斗维红 曲：董昱昆\r\n《玻璃心》词：董昱昆 曲：董昱昆\r\n《君についての秘密》词：张玉红 曲：董昱昆\r\n《The fairyland》词：董昱昆 曲：董昱昆\r\n《我想》词：董昱昆 曲：董昱昆\r\n《你有多久没有》词：董昱昆 曲：董昱昆",
+  "duration": 4529,
+  "pages": [
+    {
+      "aid": 15565564,
+      "bvid": "BV1zx411M71T",
+      "cid": 25329305,
+      "page": 1,
+      "part": "《真是个好日子呢》",
+      "duration": 279,
+      "vid": "",
+      "first_frame": null,
+      "ctime": 0
+    },
+    {
+      "aid": 15565564,
+      "bvid": "BV1zx411M71T",
+      "cid": 25329306,
+      "page": 2,
+      "part": "《淋雨》",
+      "duration": 159,
+      "vid": "",
+      "first_frame": null,
+      "ctime": 0
+    },
+    {
+      "aid": 15565564,
+      "bvid": "BV1zx411M71T",
+      "cid": 25329307,
+      "page": 3,
+      "part": "《未闻花名》",
+      "duration": 194,
+      "vid": "",
+      "first_frame": null,
+      "ctime": 0
+    },
+    {
+      "aid": 15565564,
+      "bvid": "BV1zx411M71T",
+      "cid": 25329308,
+      "page": 4,
+      "part": "《等待者》",
+      "duration": 225,
+      "vid": "",
+      "first_frame": null,
+      "ctime": 0
+    },
+    {
+      "aid": 15565564,
+      "bvid": "BV1zx411M71T",
+      "cid": 25329309,
+      "page": 5,
+      "part": "《人》",
+      "duration": 179,
+      "vid": "",
+      "first_frame": null,
+      "ctime": 0
+    },
+    {
+      "aid": 15565564,
+      "bvid": "BV1zx411M71T",
+      "cid": 25329310,
+      "page": 6,
+      "part": "《董先生》+《明信片》+《一人环游世界》",
+      "duration": 844,
+      "vid": "",
+      "first_frame": null,
+      "ctime": 0
+    },
+    {
+      "aid": 15565564,
+      "bvid": "BV1zx411M71T",
+      "cid": 25329311,
+      "page": 7,
+      "part": "《窗外的枫叶》",
+      "duration": 299,
+      "vid": "",
+      "first_frame": null,
+      "ctime": 0
+    },
+    {
+      "aid": 15565564,
+      "bvid": "BV1zx411M71T",
+      "cid": 25329312,
+      "page": 8,
+      "part": "《可能》+《和你》",
+      "duration": 598,
+      "vid": "",
+      "first_frame": null,
+      "ctime": 0
+    },
+    {
+      "aid": 15565564,
+      "bvid": "BV1zx411M71T",
+      "cid": 25329313,
+      "page": 9,
+      "part": "《一生所爱》",
+      "duration": 294,
+      "vid": "",
+      "first_frame": null,
+      "ctime": 0
+    },
+    {
+      "aid": 15565564,
+      "bvid": "BV1zx411M71T",
+      "cid": 25329314,
+      "page": 10,
+      "part": "《玻璃心》",
+      "duration": 220,
+      "vid": "",
+      "first_frame": null,
+      "ctime": 0
+    },
+    {
+      "aid": 15565564,
+      "bvid": "BV1zx411M71T",
+      "cid": 25329315,
+      "page": 11,
+      "part": "《君についての秘密》",
+      "duration": 184,
+      "vid": "",
+      "first_frame": null,
+      "ctime": 0
+    },
+    {
+      "aid": 15565564,
+      "bvid": "BV1zx411M71T",
+      "cid": 25329316,
+      "page": 12,
+      "part": "《You and Me》",
+      "duration": 188,
+      "vid": "",
+      "first_frame": null,
+      "ctime": 0
+    },
+    {
+      "aid": 15565564,
+      "bvid": "BV1zx411M71T",
+      "cid": 25329317,
+      "page": 13,
+      "part": "《The fairyland》",
+      "duration": 195,
+      "vid": "",
+      "first_frame": null,
+      "ctime": 0
+    },
+    {
+      "aid": 15565564,
+      "bvid": "BV1zx411M71T",
+      "cid": 25329318,
+      "page": 14,
+      "part": "《我想》",
+      "duration": 204,
+      "vid": "",
+      "first_frame": null,
+      "ctime": 0
+    },
+    {
+      "aid": 15565564,
+      "bvid": "BV1zx411M71T",
+      "cid": 25329319,
+      "page": 15,
+      "part": "《Blood red ocean blue》",
+      "duration": 107,
+      "vid": "",
+      "first_frame": null,
+      "ctime": 0
+    },
+    {
+      "aid": 15565564,
+      "bvid": "BV1zx411M71T",
+      "cid": 25329320,
+      "page": 16,
+      "part": "《你有多久没有》",
+      "duration": 360,
+      "vid": "",
+      "first_frame": null,
+      "ctime": 0
+    }
+  ]
+}

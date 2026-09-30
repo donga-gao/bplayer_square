@@ -1,0 +1,138 @@
+{
+  "bvid": "BV1PEgQzbEeG",
+  "aid": 114778655821965,
+  "cid": 30797791813,
+  "videos": 11,
+  "tid": 130,
+  "tid_v2": 2024,
+  "tname": "",
+  "tname_v2": "",
+  "pic": "http://i0.hdslb.com/bfs/archive/43bd32c8fc46d2188feed115c6184278c1707785.jpg",
+  "title": "邓福如 AFÜ - 原来如此 A-FÜ",
+  "ctime": 1751383650,
+  "desc": "邓福如 AFÜ - 原来如此 A-FÜ",
+  "duration": 2660,
+  "pages": [
+    {
+      "aid": 114778655821965,
+      "bvid": "BV1PEgQzbEeG",
+      "cid": 30797791813,
+      "page": 1,
+      "part": "1 - 未填词",
+      "duration": 236,
+      "vid": "",
+      "first_frame": "http://i2.hdslb.com/bfs/storyff/n250701sa3f3pb1lrsulyh1y21rm8syu_firsti.jpg",
+      "ctime": 1751383650
+    },
+    {
+      "aid": 114778655821965,
+      "bvid": "BV1PEgQzbEeG",
+      "cid": 30797791843,
+      "page": 2,
+      "part": "2 - 声声慢",
+      "duration": 245,
+      "vid": "",
+      "first_frame": "http://i2.hdslb.com/bfs/storyff/n250701sa1pmgiragifb712xsyuvw70u_firsti.jpg",
+      "ctime": 1751383650
+    },
+    {
+      "aid": 114778655821965,
+      "bvid": "BV1PEgQzbEeG",
+      "cid": 30797791873,
+      "page": 3,
+      "part": "3 - 一点点喜欢",
+      "duration": 202,
+      "vid": "",
+      "first_frame": "http://i1.hdslb.com/bfs/storyff/n250701sa1g43f86khf7ir1wpkxcraut_firsti.jpg",
+      "ctime": 1751383650
+    },
+    {
+      "aid": 114778655821965,
+      "bvid": "BV1PEgQzbEeG",
+      "cid": 30797791968,
+      "page": 4,
+      "part": "4 - 如果有如果",
+      "duration": 308,
+      "vid": "",
+      "first_frame": "http://i1.hdslb.com/bfs/storyff/n250701sa2iikmpbkypmh218i0idwxl4_firsti.jpg",
+      "ctime": 1751383650
+    },
+    {
+      "aid": 114778655821965,
+      "bvid": "BV1PEgQzbEeG",
+      "cid": 30797792137,
+      "page": 5,
+      "part": "5 - 起飞",
+      "duration": 215,
+      "vid": "",
+      "first_frame": "http://i1.hdslb.com/bfs/storyff/n250701sa3t2pfbpok1lji3w2y1t1ws1_firsti.jpg",
+      "ctime": 1751383650
+    },
+    {
+      "aid": 114778655821965,
+      "bvid": "BV1PEgQzbEeG",
+      "cid": 30797792240,
+      "page": 6,
+      "part": "6 - 福尔摩斯",
+      "duration": 251,
+      "vid": "",
+      "first_frame": "http://i2.hdslb.com/bfs/storyff/n250701sa1q7tehcqe3wmf3vgh0lnpj8_firsti.jpg",
+      "ctime": 1751383650
+    },
+    {
+      "aid": 114778655821965,
+      "bvid": "BV1PEgQzbEeG",
+      "cid": 30797792484,
+      "page": 7,
+      "part": "7 - 你好吗 天气好吗",
+      "duration": 221,
+      "vid": "",
+      "first_frame": "http://i0.hdslb.com/bfs/storyff/n250701sa3dgqrb2rc9ker28xnlnk6g5_firsti.jpg",
+      "ctime": 1751383650
+    },
+    {
+      "aid": 114778655821965,
+      "bvid": "BV1PEgQzbEeG",
+      "cid": 30797792420,
+      "page": 8,
+      "part": "8 - 星空恋曲",
+      "duration": 199,
+      "vid": "",
+      "first_frame": "http://i1.hdslb.com/bfs/storyff/n250701sa3n3b0jsul3dcq3k1xkxj0bt_firsti.jpg",
+      "ctime": 1751383650
+    },
+    {
+      "aid": 114778655821965,
+      "bvid": "BV1PEgQzbEeG",
+      "cid": 30797792554,
+      "page": 9,
+      "part": "9 - 许你向我看",
+      "duration": 259,
+      "vid": "",
+      "first_frame": "http://i0.hdslb.com/bfs/storyff/n250701sa3vcb1rj0mas622a49lp3vwd_firsti.jpg",
+      "ctime": 1751383650
+    },
+    {
+      "aid": 114778655821965,
+      "bvid": "BV1PEgQzbEeG",
+      "cid": 30797792605,
+      "page": 10,
+      "part": "10 - Let Go",
+      "duration": 251,
+      "vid": "",
+      "first_frame": "http://i2.hdslb.com/bfs/storyff/n250701sa5h2ochzwyad81dazz50eigr_firsti.jpg",
+      "ctime": 1751383650
+    },
+    {
+      "aid": 114778655821965,
+      "bvid": "BV1PEgQzbEeG",
+      "cid": 30797792720,
+      "page": 11,
+      "part": "11 - Nothing On You",
+      "duration": 273,
+      "vid": "",
+      "first_frame": "http://i1.hdslb.com/bfs/storyff/n250701sa6nrd4mwv1iwi2nzixr5ibxr_firsti.jpg",
+      "ctime": 1751383650
+    }
+  ]
+}
